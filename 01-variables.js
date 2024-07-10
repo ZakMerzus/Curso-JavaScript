@@ -19,3 +19,5 @@ console.log(helloWorld3)
 // Error porque no se puede modificar el valor de la constante ya declarada
 /* helloWorld3 = "Hola de nuevo, JS 2"
 console.log (helloWorld3) */
+
+//CLASE 10/07/2024
